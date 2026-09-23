@@ -16,7 +16,8 @@ Projeto desenvolvido no âmbito da unidade curricular de **Engenharia de Softwar
 
 A nossa frota é adaptada à época dos Descobrimentos. A correspondência de nomes com os da batalha naval da atualidade é a seguinte:
 
-| Batalha Naval | Descobrimentos | English | Dimensão | #Navios |
+Batalha Naval | Descobrimentos | English | Dimensão | #Navios |
+| :--- | :--- | :--- | :---: | :---: |
 | Porta-aviões | Galeão | Galleon | 5 | 1 |
 | Navio de 4 canhões | Fragata | Frigate | 4 | 1 |
 | Navio de 3 canhões | Nau | Carrack | 3 | 2 |
