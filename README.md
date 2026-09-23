@@ -12,7 +12,6 @@ Projeto desenvolvido no âmbito da unidade curricular de **Engenharia de Softwar
 | LEI | *[Número]* | *[Nome do Colega 1]* | [@LEI-XXXXX](https://github.com/LEI-XXXXX) |
 
 ---
----
 
 ## 📜 Regras do Jogo
 
